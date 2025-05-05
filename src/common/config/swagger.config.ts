@@ -1,6 +1,6 @@
 
 const SWAGGER_API_ROOT = 'docs';
-const SWAGGER_API_NAME = 'Etap';
+const SWAGGER_API_NAME = 'LearnRite';
 const SWAGGER_API_DESCRIPTION = 'API';
 const SWAGGER_API_CURRENT_VERSION = '1.0';
 
